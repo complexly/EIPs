@@ -7,5 +7,5 @@ Author: Yang LI <sdshiyan2005@gmail.com>
 Maintainer: Yang LI <sdshiyan2005@gmail.com>
 Description: Network data and functions for Eco-Industrial Parks
 License: GPL
-Depends: R (>= 3.0.3)
+Depends: R (>= 3.0.0)
 Imports: igraph, network
